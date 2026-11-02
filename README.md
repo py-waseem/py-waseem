@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Waseem! 👋
 
-<!--
-**py-waseem/py-waseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a focused **Web Developer** passionate about building clean, efficient, and dynamic web applications. I specialize in building solid backend systems with Python and Django, while creating smooth user interfaces using frontend web technologies.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Backend Frameworks:** Python, Django (MVT architectures, ORM, User Authentication)
+- **Frontend Tools:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- **Version Control & Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ What I'm Working On
+- Building secure and responsive backend services and dynamic web apps.
+- Deepening my expertise in database management and scalable APIs.
+
+📫 **How to reach me:** mdw2368@gmail.com
